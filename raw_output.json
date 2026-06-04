@@ -1,0 +1,6 @@
+{
+  "final_summary": null,
+  "flags": [],
+  "trace": "\n=================================================================\nSTEP 0 [START]\n=================================================================\nModel: llama-3.3-70b-versatile  |  PDF: patients_details\\patient.pdf\n\n\n=================================================================\nSTEP 1 [API ERROR]\n=================================================================\nError code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}\n",
+  "steps_used": 1
+}

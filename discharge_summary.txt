@@ -1,0 +1,12 @@
+====================================================================
+     DISCHARGE SUMMARY DRAFT — FOR CLINICIAN REVIEW ONLY
+     Generated : 2026-06-03 16:55  |  Groq / llama-3.3-70b-versatile
+     WARNING   : AI draft. Do NOT use without clinician verification.
+====================================================================
+
+COMPILATION FAILED — check trace.txt for details.
+
+====================================================================
+  Steps used : 1 / 20
+  Flags      : 0
+====================================================================
